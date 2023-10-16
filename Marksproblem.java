@@ -13,7 +13,7 @@ public class Marksproblem {
         float hindiMarks = scan.nextFloat();
         System.out.println("Enter englishMarks marks :");
 
-        float englishMarks = scan.nextFloat();
+        float englishMarks = scan.nextFloat();  
         System.out.println("Enter socialScienceMarks marks :");
 
         float socialScienceMarks = scan.nextFloat();
